@@ -1,0 +1,5 @@
+Lexend (la fuente de tu diseño en Figma) se carga desde Google Fonts cuando hay internet.
+Para que también se vea igual SIN internet, descarga Lexend de fonts.google.com/specimen/Lexend,
+conviértela a .woff2 y guarda estos 4 archivos en esta carpeta:
+  Lexend-Light.woff2  Lexend-Regular.woff2  Lexend-SemiBold.woff2  Lexend-Bold.woff2
+Inter ya viene incluida.
